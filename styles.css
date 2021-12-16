@@ -66,9 +66,9 @@ h3{
 
 }
 .bottom-cloud{
-    position:absolute;
-    left:300px;
-    top:300px;
+    position:relative;
+    left:50px;
+    bottom: 700px;
 
 }
 .webdev{
